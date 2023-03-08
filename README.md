@@ -4,7 +4,7 @@ Computer Vision is a unique field of data science that deals with images instead
 
 In this article, we will explore the process of detecting license plates using Computer Vision techniques. Through this, we will gain a deeper understanding of the potential applications and capabilities of Computer Vision technology.
 
-       ![image](https://user-images.githubusercontent.com/100942364/223761592-d53dc51b-3173-4433-9008-f02ff6650f5f.png)
+
 ![image](https://user-images.githubusercontent.com/100942364/223761659-aaf2a2d5-f4e9-4720-8417-0fddc388af89.png)
 ![image](https://user-images.githubusercontent.com/100942364/223761767-ca212bfe-416b-4ba4-a541-bb5a15ddeb0d.png)
 ![image](https://user-images.githubusercontent.com/100942364/223761866-13356376-c710-42dc-b3d8-a8f2de5be8e4.png)
